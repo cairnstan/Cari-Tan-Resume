@@ -1,0 +1,29 @@
+body {
+	background-color: #B0C4DE;
+	border: 10px solid midnightblue;
+	font-family: Georgia;
+	margin: 25px 250px 25px 250px;
+}
+h1 {
+	text-align: center;
+}
+p {
+	font-weight: bold;
+	text-align: center;
+}
+img {
+	margin-right: auto;
+	margin-left: auto;
+	height: 200px;
+	width: 200px;
+
+}
+h2 {
+	text-align: center;
+}
+a {
+	margin-left: 200px;
+}
+ul {
+	margin-left: 200px;
+}
