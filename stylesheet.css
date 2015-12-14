@@ -11,19 +11,21 @@ p {
 	font-weight: bold;
 	text-align: center;
 }
+
 img {
-	margin-right: auto;
-	margin-left: auto;
 	height: 200px;
 	width: 200px;
+	float: right;
+	margin-right: 50px;
 
 }
 h2 {
 	text-align: center;
 }
 a {
-	margin-left: 200px;
+	margin-left: 100px;
 }
 ul {
-	margin-left: 200px;
+	margin-left: 100px;
 }
+
